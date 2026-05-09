@@ -1,7 +1,7 @@
 # Axios
 
 
-Axios is a borderless enterprise payroll on Mezo testnet with x402 integrated machine payments.
+Axios is a borderless enterprise payroll on Mezo testnet with x402 integrated machine payments
 
 ## What it does
 
